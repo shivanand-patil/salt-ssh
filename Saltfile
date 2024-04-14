@@ -1,0 +1,4 @@
+salt-ssh:
+  roster_file: /home/shiv/salt-ssh/roster # replace 'vagrant' with your username if needed
+  config_dir: /home/shiv/salt-ssh
+  log_file: /home/shiv/salt-ssh/log.txt  
